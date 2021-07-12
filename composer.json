@@ -51,7 +51,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Osiset\\ShopifyApp\\": "src/ShopifyApp"
+            "Osiset\\ShopifyApp\\": "src"
         }
     },
     "autoload-dev": {
